@@ -4,7 +4,7 @@ public class first_program
 {
 public static void main(Strings[]args)
 {
-system.out.print("Hello, welcome to java");
+system.out.print("Hello, welcome to jaa");
 }
 }
 
